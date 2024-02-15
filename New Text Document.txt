@@ -1,0 +1,2 @@
+cd  C:\Users\Jameer\eclipse-workspace\inetBankingV1_Project1
+mvn clean install
